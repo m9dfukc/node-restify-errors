@@ -4,7 +4,7 @@
   "description": "The Restify Errors Methods as a separate Module.",
   "author": {
     "name": "Mark Cavage, Andreas Schmelas",
-    "email": "andreas@invertednothing.com",
+    "email": "andreas@invertednothing.com"
   },
   "repository": {
     "type": "git",
