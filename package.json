@@ -1,6 +1,6 @@
 {
-  "name": "restify-errors",
-  "version": "1.0",
+  "name": "node-restify-errors",
+  "version": "0.1.0",
   "description": "The Restify Errors Methods as a separate Module.",
   "author": {
     "name": "Mark Cavage, Andreas Schmelas",
@@ -13,6 +13,9 @@
   "bugs": {
     "url": "https://github.com/m9dfukc/node-restify-errors/issues"
   },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
   "main": "./lib/index",
   "engines": {
     "node": ">= 0.8.0"
